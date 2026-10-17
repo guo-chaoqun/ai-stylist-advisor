@@ -237,3 +237,5 @@ AI 分析照片与款式 → 实时进度等待 → 输出完整方案：
 - **P2**：3D 虚拟形象 / 电商联盟变现
 
 **正在寻找大模型评测工程师 / AI 评测工程师方向的岗位，欢迎联系：168314684@qq.com。**
+
+📚 [学习资料索引](https://github.com/guo-chaoqun/guo-chaoqun/blob/main/LEARNING-INDEX.md) ｜ 🧠 [AI 评测知识体系](https://github.com/guo-chaoqun/guo-chaoqun/blob/main/AI-EVAL-KNOWLEDGE.md) ｜ 🧪 姊妹项目：[电商智能客服 · AI 评测体系从 0 到 1](https://github.com/guo-chaoqun/ecommerce-ai-customer-service)
